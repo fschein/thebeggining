@@ -1,1 +1,1 @@
-print('Teste "aspas" (str).')
+print('Aspas e "aspas" (str). ')
