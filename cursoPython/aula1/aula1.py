@@ -4,6 +4,6 @@ print('Linha 2')  # falando do que se trata essa linha - python requer dois espa
 print('Linha 3')
 """
 
-# Explicando
+# Comentario
 print('Linha 4')
 print('Linha 5')
